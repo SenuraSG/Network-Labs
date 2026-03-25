@@ -1,94 +1,83 @@
-# Network---Labs
-Store My Networking Practical Journey 
-# 🌐 CCNA Module 1 Final Practical – Introduction to Networks
+# 🌐 Network Labs Repository
 
 ## 📌 Overview
-I am proud to share the successful completion of my **CCNA Module 1 (Introduction to Networks) Final Practical** from the Cisco Networking Academy.
+Welcome to my **Network Labs Repository**, a collection of hands-on networking practicals and projects completed as part of my journey in mastering computer networking and becoming a Network Engineer.
 
-This hands-on project focused on designing and implementing a complete enterprise-level network while applying core networking concepts in a real-world scenario.
-
----
-
-## 🎯 Objectives
-- Design an efficient and scalable network
-- Implement proper IP addressing using VLSM
-- Configure routing between multiple networks
-- Apply basic network security measures
-- Deploy essential network services
-- Ensure connectivity and troubleshoot issues
+This repository contains structured lab exercises covering fundamental to advanced networking concepts using tools like Cisco Packet Tracer and real-world configurations.
 
 ---
 
-## 🛠️ Technologies & Concepts Used
+## 🎯 Purpose
+- Practice and strengthen networking concepts
+- Build a strong practical foundation for CCNA and beyond
+- Showcase hands-on skills in network design and configuration
+- Create a professional portfolio for networking roles
 
-### 🔹 IP Addressing
-- Variable Length Subnet Masking (VLSM)
-- Efficient subnet allocation
+---
 
-### 🔹 Routing
-- Static Routing configuration
-- Inter-router communication
+## 🧪 Labs Included
 
-### 🔹 Network Security
-- SSH configuration for secure remote access
-- Password encryption and policies
-- Basic brute-force attack prevention
+### 🔹 CCNA Module Labs
+- Introduction to Networks (ITN)
+- Switching, Routing, and Wireless Essentials (SRWE)
+- Enterprise Networking, Security, and Automation (ENSA)
+
+### 🔹 Core Networking Topics
+- IP Addressing & Subnetting (VLSM)
+- Static Routing
+- Dynamic Routing (OSPF, RIP, EIGRP)
+- VLAN Configuration
+- Inter-VLAN Routing
 
 ### 🔹 Network Services
-- DHCP (Dynamic Host Configuration Protocol)
-- DNS (Domain Name System)
-- Web Server configuration
-- Email Server setup
+- DHCP Configuration
+- DNS Setup
+- Web Server Configuration
+- Email Server Setup
 
-### 🔹 Device Configuration
-- Hostname configuration
-- Banner messages (MOTD)
-- Secure remote management (Telnet/SSH)
-
----
-
-## 🧪 Practical Implementation
-This project includes:
-- Multiple routers and switches
-- End devices (PCs, servers)
-- Proper IP scheme using VLSM
-- Fully configured routing tables
-- Functional network services
-- Verified end-to-end connectivity
-
----
-
-## ✅ Key Achievements
-- Successfully designed and implemented a working network
-- Achieved full connectivity across all devices
-- Strengthened troubleshooting and configuration skills
-- Gained hands-on experience in real-world networking scenarios
-
----
-
-## 🚀 Learning Outcome
-This practical significantly improved my understanding of:
-- Network design principles
-- Routing and addressing techniques
-- Network security fundamentals
-- Real-world troubleshooting strategies
+### 🔹 Network Security Basics
+- SSH Configuration
+- Password Policies
+- Port Security
+- Basic Attack Prevention
 
 ---
 
 ---
 
-## 📌 Future Goals
-I am excited to continue my journey toward becoming a skilled **Network Engineer** by exploring:
-- Advanced routing protocols (OSPF, EIGRP)
-- Network automation
-- Cybersecurity practices
+## 🛠️ Tools & Technologies
+- Cisco Packet Tracer
+- Networking CLI (IOS Commands)
+- Basic Linux/Server Configuration
 
 ---
 
-## 🔗 Acknowledgment
-Special thanks to **Cisco Networking Academy** for providing this valuable learning experience.
+## 🚀 Key Skills Demonstrated
+- Network Design & Topology Creation
+- IP Addressing & Subnetting
+- Routing & Switching Configuration
+- Network Troubleshooting
+- Secure Device Management
+
+---
+
+## 📈 Learning Journey
+This repository reflects my continuous learning process in networking. Each lab builds on previous knowledge and simulates real-world networking scenarios.
+
+---
+
+## 🔮 Future Improvements
+- Add advanced routing protocols (OSPF multi-area, BGP basics)
+- Network automation using Python
+- Cloud networking concepts
+- Real device configurations
+
+---
+
+## 🤝 Connect With Me
+I am passionate about networking and always open to learning and collaboration.
 
 ---
 
 ## 📢 Tags
-`#CCNA #Cisco #Networking #NetworkEngineering #ITN #CiscoNetworkingAcademy #LearningByDoing #TechSkills #FutureEngineer #IPNetworking #Routing #CyberSecurityBasics #StudentLife`
+`#Networking #CCNA #Cisco #NetworkEngineering #LearningByDoing #PacketTracer #ITSkills #StudentPortfolio`
